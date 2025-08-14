@@ -1,7 +1,13 @@
-h1 {
-    .rochester-regular {
-        font-family: "Rochester", cursive;
-        font-style: normal;
-    }
+@font-face {
+    font-family: 'Rochester';
+    src: url(Rochester-Regular.ttf)
+}
 
+body {
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: 'Rochester';
 }
