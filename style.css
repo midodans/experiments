@@ -1,11 +1,10 @@
 @font-face {
     font-family: 'Rochester';
-    src: url(Rochester-Regular.ttf);
+    src: url(Rochester-Regular.ttf) format(trueform);
 }
 
 body {
     text-align: center;
-    
 }
 
 h1 {
