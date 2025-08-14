@@ -13,5 +13,29 @@ body {
 }
 
 h1 {
-    font-family: 'Rochester';
+    font-family: cursive;
+}
+
+p {
+    font-family: cursive;
+    font-size: 38px;
+}
+
+img{
+    width: 400px;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 60px;
+}
+
+div {
+    font-family: cursive;
+    font-size: 38px;
+}
+
+h3 {
+    font-family: cursive;
+    font-size: 38px;
 }
