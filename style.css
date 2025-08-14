@@ -1,6 +1,9 @@
 h1 {
-    font-family: "Ballet", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+    .ballet-<uniquifier> {
+        font-family: "Ballet", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
 }
